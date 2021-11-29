@@ -1,0 +1,17 @@
+div{
+    border: 2px solid purple;  
+    width: 100px;
+    height: 150px;
+   
+}
+.p1{
+    text-align: center;
+    transform: matrix(1,2,1,1,0,1);
+}
+.p2{
+  transform: skewX(30deg);
+}
+.p3{
+    
+    transform: skew(15deg, 20deg);
+}
